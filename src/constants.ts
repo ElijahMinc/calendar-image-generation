@@ -1,0 +1,10 @@
+export const WIDTH = 1000;
+export const HEIGHT = 800;
+export const PADDING = 10;
+export const CELL_WIDTH = 150;
+export const CELL_HEIGHT = 50;
+export const HEADER_HEIGHT = 150;
+export const DAY_SPACING = 100;  // New variable for spacing between days
+export const BORDER_RADIUS = 20;  // Border radius for rounded corners
+export const TIME_SLOTS_MARGIN_TOP = 20;  // Border radius for rounded corners
+export const ICON_SIZE = 16;  // Size of the icon image
